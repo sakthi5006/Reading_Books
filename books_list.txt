@@ -1,0 +1,66 @@
+10. Design Patterns - GOF.pdf
+11. The Mythical Man Month - Frederick Brooks.pdf
+12. Working Effectively With Legacy Code - Michael Feathers.pdf
+1. Code Complete 2 - Steve McConnell.pdf
+2. The Pragmatic Programmer - Andrew Hunt, David Thomas.pdf
+3. Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Sussman.pdf
+4. Introduction to Algorithms - CLRS.pdf
+5. Clean Code - Robert Martin.pdf
+6. Refactoring -  Martin Fowler.pdf
+8. Code - Charles Petzold.pdf
+9. Programming Pearls - Jon Bentley.pdf
+Algorithm Design - Jon Kleinberg, Éva Tardos.pdf
+A Little History of Economics - Niall Kishtainy.pdf
+Building RESTful Python Web Services - Gastón C. Hillar.pdf
+Chapter10.pdf
+Chapter11.pdf
+Chapter1.pdf
+Chapter2.pdf
+Chapter3.pdf
+Chapter4.pdf
+Chapter5.pdf
+Chapter6.pdf
+Chapter7.pdf
+Chapter8.pdf
+Chapter9.pdf
+Computer Algorithms - Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran.pdf
+Computer Network - James Kurose, Keith Ross .pdf
+Cracking The PM Interview.pdf
+Cracking The Tech Career.pdf
+CTCI - Gayle Mcdowell.pdf
+Data Structure and Algorithmic Thinking with Python - Narasimha Karumanchi.pdf
+Designing Data Intensive Applications - Martin Kleppmann.pdf
+Django: Web Development with Python - Samuel Dauzon, Aidas Bendoraitis, Arun Ravindran .pdf
+EPI c++.pdf
+EPI java - Anand Aziz, Tsung Lee, Amit Prakash.pdf
+Flask By Example - Gareth Dwyer.pdf
+Flask Web Development - Miguel Grinberg.pdf
+Go In Practice - Matt Butcher, Matt Farina.pdf
+Graph Algorithms in Apache Spark_Neo4j - Mark Needham, Amy Hodler.pdf
+Hands on Machine Learning: Scikit-Learn_Keras_TensorFlow - Aurélien Géron.pdf
+High Output Management - Andrew Grove.pdf
+Introducing Go - Caleb Doxsey.pdf
+Machine Learning With Go - Daniel Whitenack.pdf
+Minning of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey Ullman.pdf
+Natural Language Processing with Python - Steven Bird, Ewan Klein, Edward Loper.pdf
+Natural Language Processing with TensorFlow - Thushan Ganegedara.pdf
+New Thinking (Cold Fusion) - Dagogo Altraide.pdf
+NextGen Virtualization - Himanshu Singh.pdf
+Patterns of Enterprise Application Architecture - Martin Fowler.pdf
+PIE - John Mongan, Eric Giguère, Noah Kindler.pdf
+Pro Git - Scott Chacon, Ben Straub.pdf
+Speech and Language Processing - Daniel Jurafsky, James Martin.pdf
+The Black Box Society -  Frank Pasquale.pdf
+The Black Swan - Nassim Taleb.pdf
+The C++ Programming Language - Bjarne Stroustrup.pdf
+The Definitive Guide to Django -  Adrian Holovaty , Jacob Kaplan-Moss.pdf
+The Five Dysfunctions of a Team - Patrick Lencioni.pdf
+The Go Programming Language - Alan Donovan, Brian Kernighan.pdf
+The Harvard Business Review manager’s handbook.pdf
+The Hundred Page Machine Learning Book - Andriy Burkov.pdf
+The Linux Command Line - William Shots.pdf
+The Manager’s Path - Camille Fournier.pdf
+The Selfish Gene - Richard Dawkins.pdf
+Thinking, Fast and Slow - Daniel Kahneman.pdf
+Think Python - Allen Downey.pdf
+Understanding the Digital World - Brian Kernighan.pdf
