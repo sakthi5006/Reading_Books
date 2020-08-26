@@ -1,7 +1,10 @@
+0 Minning of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey Ullman.pdf
 10. Design Patterns - GOF.pdf
 11. The Mythical Man Month - Frederick Brooks.pdf
 12. Working Effectively With Legacy Code - Michael Feathers.pdf
 1. Code Complete 2 - Steve McConnell.pdf
+1 Hands on Machine Learning: Scikit-Learn_Keras_TensorFlow - Aurélien Géron.pdf
+1 Hands-On RESTful Python Web Services Develop RESTful web services - Gaston C. Hillar.pdf
 2. The Pragmatic Programmer - Andrew Hunt, David Thomas.pdf
 3. Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Sussman.pdf
 4. Introduction to Algorithms - CLRS.pdf
@@ -11,18 +14,9 @@
 9. Programming Pearls - Jon Bentley.pdf
 Algorithm Design - Jon Kleinberg, Éva Tardos.pdf
 A Little History of Economics - Niall Kishtainy.pdf
-Building RESTful Python Web Services - Gastón C. Hillar.pdf
-Chapter10.pdf
-Chapter11.pdf
-Chapter1.pdf
-Chapter2.pdf
-Chapter3.pdf
-Chapter4.pdf
-Chapter5.pdf
-Chapter6.pdf
-Chapter7.pdf
-Chapter8.pdf
-Chapter9.pdf
+Building Machine Learning Powered Applications - Emmanuel Ameisen.pdf
+Building Microservices  - Sam Newman.pdf
+Cloud Native DevOps with Kubernetes - John Arundel, Justin Domingus.pdf
 Computer Algorithms - Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran.pdf
 Computer Network - James Kurose, Keith Ross .pdf
 Cracking The PM Interview.pdf
@@ -37,18 +31,23 @@ Flask By Example - Gareth Dwyer.pdf
 Flask Web Development - Miguel Grinberg.pdf
 Go In Practice - Matt Butcher, Matt Farina.pdf
 Graph Algorithms in Apache Spark_Neo4j - Mark Needham, Amy Hodler.pdf
-Hands on Machine Learning: Scikit-Learn_Keras_TensorFlow - Aurélien Géron.pdf
 High Output Management - Andrew Grove.pdf
 Introducing Go - Caleb Doxsey.pdf
+Introduction to C++ for Financial Engineers - Daniel Duffy.pdf
+Introduction to Machine Learning with Python - Andreas C. Mueller, Sarah Guido .pdf
 Machine Learning With Go - Daniel Whitenack.pdf
-Minning of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey Ullman.pdf
+Mastering C# and .NET Framework - Marino Posadas.pdf
+Monolith to Microservices - Sam Newman.pdf
 Natural Language Processing with Python - Steven Bird, Ewan Klein, Edward Loper.pdf
 Natural Language Processing with TensorFlow - Thushan Ganegedara.pdf
 New Thinking (Cold Fusion) - Dagogo Altraide.pdf
 NextGen Virtualization - Himanshu Singh.pdf
 Patterns of Enterprise Application Architecture - Martin Fowler.pdf
 PIE - John Mongan, Eric Giguère, Noah Kindler.pdf
+Practical Machine Learning with Python - Dipanjan Sarkar, Raghav Bali, Tushar Sharma.pdf
 Pro Git - Scott Chacon, Ben Straub.pdf
+Pro Python System Administration - Rytis Sileika.pdf
+Real-World Machine Learning - Henry Brink, Joseph Richards, Mark Fetherolf.pdf
 Speech and Language Processing - Daniel Jurafsky, James Martin.pdf
 The Black Box Society -  Frank Pasquale.pdf
 The Black Swan - Nassim Taleb.pdf
