@@ -4,7 +4,6 @@
 3 mustread books
 3 tools books
 4 Management books
-books.txt
 futurist authors
 Interview Prep
 lang - c#
@@ -14,6 +13,7 @@ lang - java
 lang - python
 misc
 non-technical
+README.md
 sub: AoA
 sub: DataScience
 sub: NLP
@@ -25,7 +25,7 @@ sub: NLP
 04. Hackers - Steven Levy.pdf
 05. Superintelligence - Nick Bostrom.pdf
 06. The Chip - TR Reid.pdf
-07. IT infrastructure architecture - Laan, Sjaak.pdf
+07. IT infrastructure architecture - Sjaak Laan.pdf
 08. The Innovators - Walter Isaacson.pdf
 09. Understanding the Digital World - Brian Kernighan.pdf
 10. The Search - John Battelle.pdf
@@ -66,12 +66,12 @@ Big Data Case Study - Bernard Marr.pdf
 Tech Trends in Practice - Bernard Marr.pdf
 
 ./Interview Prep:
-1 CTCI - Gayle Mcdowell.pdf
-2 EPI python - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash.djvu
+1 EPI python - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash.djvu
+2 EPI java.pdf
+3 EPI c++.pdf
+Cracking The Coding InterviewTCI - Gayle Mcdowell.pdf
 Cracking The PM Interview.pdf
 Cracking The Tech Career.pdf
-EPI c++.pdf
-EPI java.pdf
 PIE - John Mongan, Eric Giguère, Noah Kindler.pdf
 
 ./lang - c#:
@@ -101,6 +101,7 @@ Pro Python System Administration - Rytis Sileika.pdf
 Python Cookbook - David Beazley, Brian Jones.pdf
 Python Crash Course - Eric Matthes.pdf
 Python Design Patterns - Kamon Ayeva, Sakis Kasampalis.pdf
+Python Tricks - Dan Bader.pdf
 Think Python - Allen Downey.pdf
 web-python
 
